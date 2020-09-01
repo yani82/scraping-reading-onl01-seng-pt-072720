@@ -12,5 +12,3 @@ courses.each do |course|
 end
   
   
-  
-end
